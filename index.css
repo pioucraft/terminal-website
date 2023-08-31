@@ -10,11 +10,24 @@ body {
 
 .window {
     background-color: rgba(0, 0, 0, 0.7);
-    height: 100vh;
+    height: auto;
+    padding-bottom: 1vh;
     padding-top: 1vh;
 }
 
 li {
     margin-left: -1vw;
     list-style-type:none;
+    font-size: 1em;
+}
+
+input {
+    background: transparent;
+    border: none;
+    outline: none;
+    color: white;
+    font-size: 1em;
+    width: 99%;
+    font-family: "Jetbrains Mono";
+
 }
