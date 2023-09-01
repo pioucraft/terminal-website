@@ -2,14 +2,15 @@ body {
    color: whitesmoke;
    font-family: "Jetbrains Mono";
    padding: 2vh;
-   background-image: url(https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+   background-image: url(background.jpg);
+   background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
    background-attachment: fixed;
 }
 
 .window {
-    background-color: rgba(0, 0, 0, 0.7);
+    background-color: rgba(0, 0, 0, 0.65);
     height: auto;
     padding-bottom: 1vh;
     padding-top: 1vh;
