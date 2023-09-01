@@ -87,7 +87,7 @@ function execute(command) {
                 return 0;
             }
         }
-        document.getElementById("window-content").innerHTML += `<li>Error, the command doesn't exist</li>` 
+        document.getElementById("window-content").innerHTML += `<li>Error, the command doesn't exist.</li>` 
     }
     
 }
