@@ -14,3 +14,6 @@ To add folders, it's similar, you need to change the "type" to "folder"and chang
 
 ### Part 2, add commands :
 To add commands, it's pretty simple, just add a "commands" list to your "data". Then, you can add an array in the list. In this array, you can add a "name" (no spaces in the name !) and a response, it'll be what the command will print out. The response is a string.
+
+### Part 3, more things to know :
+You can change the background image in the index.css file.
